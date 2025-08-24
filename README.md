@@ -121,5 +121,4 @@ flowchart TD
 ---
 
 
-Do you want me to **add another diagram** (like a **class diagram** of `Task` and `ToDoListApp`) in the README too, or just keep the flowchart?
-```
+
